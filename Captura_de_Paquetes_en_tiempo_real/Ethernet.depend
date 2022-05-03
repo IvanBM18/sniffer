@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1600386982 source:c:\users\raul garcia\desktop\5nto semestre\seminario de redes\actividades\ethernet\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	<locale>
+
+1602169950 source:c:\users\raul_\desktop\raúl jaime garcía espejo\5nto semestre\seminario de redes\actividades\ethernet\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	<locale>
+	<bitset>
+
+1604972512 source:c:\users\raul_\desktop\raúl jaime garcía espejo\5nto semestre\seminario de redes\actividades\sniffer\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	<locale>
+	<bitset>
+	<cstring>
+
+1606418054 source:d:\raúl jaime garcía espejo\5nto semestre\seminario de redes\actividades\sniffer\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	<locale>
+	<bitset>
+	<cstring>
+
